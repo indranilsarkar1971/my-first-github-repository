@@ -2,3 +2,5 @@
 Here is my first github repository - lets start
 
 This file is modified manually during conflict resolution
+
+New line is added locally
