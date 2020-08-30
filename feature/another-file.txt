@@ -5,3 +5,5 @@ This file is modfied locally.
 This line is added in feature-2 branch
 
 Another modiification in feature-2 branch
+
+Made another change in feature-2.
